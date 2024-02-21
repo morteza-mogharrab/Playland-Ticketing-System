@@ -1,0 +1,22 @@
+Receipt Ref:		BILL Number: 1329		21/02/2024
+
+Ball Pit			2
+Bondville Fair			5
+Bug Whirled			6
+Bumper Cars			10
+Climbing Wall			8
+Cup			7
+Dizzy Drop			1
+Haunted Mansion			2
+Hellevator			6
+Hells Gate			6
+Merry Go Round			5
+Pirate			90
+Roller Coaster			5
+V Merry Go Round			3
+W Roller Coaster			2
+Circus City			0
+Purchased Items : 		$3073.00
+DISCOUNT : 		$27.66
+Tax : 		$430.22
+Total Cost : 		$3475.56
